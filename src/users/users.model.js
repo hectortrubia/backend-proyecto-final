@@ -109,27 +109,3 @@ export const deleteUserInfoByEmail = async (email) => {
 }
 
 
-
-// export const updateUserInfo = async (email) => {
-//     try {
-//         await client.connect();
-//         const db = client.db(DATABASE_NAME);
-//         const users = db.collection(COLLECTION_NAME);
-//         const query = { email };
-//         const options = { projection: { _id: 0, password: 0, status: 0 } }
-//         users.updateOne(query, options);
-//     } catch (err) {
-//         console.error(err);
-//     } finally {
-//         // client.close();
-//         return "update"
-//     }
-// }
-
-
-
-
-
-
-
-

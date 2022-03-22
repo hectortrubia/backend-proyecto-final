@@ -1,0 +1,236 @@
+[
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal Indonesia",
+        "color": "Rojo y azul",
+        "talla": "S,M,L,XL",
+        "precio": "59.40€"
+    },
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal Mozambico f35",
+        "color": "azul y amarillo",
+        "talla": "S,M,L,XL",
+        "precio": "59.40€"
+    },
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal Calcuta f35",
+        "color": "verde y azul",
+        "talla": "S,M,L,XL",
+        "precio": "56.70€"
+    },
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal Libia f35",
+        "color": "azul",
+        "talla": "S,M,L,XL",
+        "precio": "57.60€"
+    },
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal Mosca f35",
+        "color": "azul",
+        "talla": "S,M,L,XL",
+        "precio": "58.50€"
+    },
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal sudan Uragano",
+        "color": "azul claro",
+        "talla": "S,M,L,XL",
+        "precio": "58.50€"
+    },
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal Birmania Uragano",
+        "color": "morado",
+        "talla": "S,M,L,XL",
+        "precio": "59.40€"
+    },
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal Damasco Uragano",
+        "color": "verde y azul",
+        "talla": "S,M,L,XL",
+        "precio": "57.60€"
+    },
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal Caracas Uragano",
+        "color": "rojo y negro",
+        "talla": "S,M,L,XL",
+        "precio": "58.50€"
+    },
+
+    {
+        "imagen": "",
+        "tipo": "chandal",
+        "descripcion": "Chandal Tokyo",
+        "color": "rojo y negro",
+        "talla": "S,M,L,XL",
+        "precio": "41.30€"
+    },
+
+
+
+
+
+
+
+
+    {
+        "imagen": "",
+        "tipo": "chaqueta",
+        "descripcion": "Chaqueta Singapore",
+        "color": "amarillo",
+        "talla": "S,M,L,XL",
+        "precio": "29.00€"
+    },
+
+    {
+        "imagen": "",
+        "tipo": "chaqueta",
+        "descripcion": "Chaqueta Algeria",
+        "color": "amarillo",
+        "talla": "S,M,L,XL",
+        "precio": "34.00€"
+    },
+
+
+    
+    {
+        "imagen": "",
+        "tipo": "chaqueta",
+        "descripcion": "Chaqueta Tunisia",
+        "color": "verde",
+        "talla": "S,M,L,XL",
+        "precio": "36.00€"
+    },
+
+        
+    {
+        "imagen": "",
+        "tipo": "chaqueta",
+        "descripcion": "Chaqueta Calcuta f35",
+        "color": "verde",
+        "talla": "S,M,L,XL",
+        "precio": "34.00€"
+    },
+
+    {
+        "imagen": "",
+        "tipo": "chaqueta",
+        "descripcion": "Chaqueta Mosca f35",
+        "color": "azul",
+        "talla": "S,M,L,XL",
+        "precio": "36.00€"
+    },
+
+    {
+        "imagen": "",
+        "tipo": "chaqueta",
+        "descripcion": "Chaqueta Caracas Uragano",
+        "color": "azul oscuro",
+        "talla": "S,M,L,XL",
+        "precio": "36.00€"
+    },
+
+    {
+        "imagen": "",
+        "tipo": "chaqueta",
+        "descripcion": "Chaqueta Cuba",
+        "color": "azul",
+        "talla": "S,M,L,XL",
+        "precio": "25.00€"
+    },
+
+
+    {
+        "imagen": "",
+        "tipo": "chaqueta",
+        "descripcion": "Chaqueta Peru",
+        "color": "blanco",
+        "talla": "S,M,L,XL",
+        "precio": "30.00€"
+    },
+
+
+
+
+
+
+
+
+    {
+        "imagen": "",
+        "tipo": "pantalon",
+        "descripcion": "Pantalón Osaka",
+        "color": "azul marino",
+        "talla": "S,M,L,XL",
+        "precio": "28.00€"
+    },
+
+
+    {
+        "imagen": "",
+        "tipo": "pantalon",
+        "descripcion": "Pantalón Texas",
+        "color": "azul marino",
+        "talla": "S,M,L,XL",
+        "precio": "26.00€"
+    },
+
+
+    
+    {
+        "imagen": "",
+        "tipo": "pantalon",
+        "descripcion": "Pantalón trainning egitto",
+        "color": "negro",
+        "talla": "S,M,L,XL",
+        "precio": "30.00€"
+    },
+
+
+    {
+        "imagen": "",
+        "tipo": "pantalon",
+        "descripcion": "Pantalón Messico",
+        "color": "azul",
+        "talla": "S,M,L,XL",
+        "precio": "23.00€"
+    },
+
+
+
+        
+    {
+        "imagen": "",
+        "tipo": "pantalon",
+        "descripcion": "Pantalón relax tornado Bogotá",
+        "color": "azul marino",
+        "talla": "S,M,L,XL",
+        "precio": "23.00€"
+    },
+
+
+    {
+        "imagen": "",
+        "tipo": "pantalon",
+        "descripcion": "Pantalón Cuba",
+        "color": "negro",
+        "talla": "S,M,L,XL",
+        "precio": "22.00€"
+    }
+
+]

@@ -4,7 +4,7 @@ import authRouter from './auth/auth.router.js';
 import usersRouter from './users/users.router.js';
 import { validateAuth } from './auth/auth.middleware.js';
 import dotenv from "dotenv";
-// import scrapeIt from "scrape-it" // este import es para cuando quiera hacer scrape-it
+import scrapeIt from "scrape-it";
 
 
 
@@ -21,23 +21,24 @@ app.use('/users', validateAuth, usersRouter);
 
 
 
-// const scrapeIt = require("scrape-it");
 
 // async function scrapeItExample() {
-//     const scrapeResult = await scrapeIt('https://www.legeasport.es/103-chaquetas', {
-//         presentations: {
-//             listItem: 'img.js-qv-product-cover',
+//     const scrapeResult = await scrapeIt('https://www.legeasport.es/102-chandals', {
+//          objeto: {
+//             listItem: 'div.product-price-and-shipping',
 //             data: {
-//                 title: 'h1.h1',
-//                 description: 'div.product.information',
+//                 precio: 'span.regular-price',
+//                 descuento: 'span.price reduction',
+//                 descripcion:'div.short-description',
 //                 img: {
-//                     selector: 'img.js-qv-product-cover',
-//                     attr: 'href'
+//                     selector: '.attachment-woocommerce_thumbnail ',
+//                     attr: 'src'
 //                 }
 //             }
 //         }
 //     });
 //     console.log(scrapeResult.data);
+
 // }
 
 // scrapeItExample();
