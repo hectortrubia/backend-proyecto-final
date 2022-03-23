@@ -2,6 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import authRouter from './auth/auth.router.js';
 import usersRouter from './users/users.router.js';
+import router from './newproducts/products.router.js';
 import { validateAuth } from './auth/auth.middleware.js';
 import dotenv from "dotenv";
 import scrapeIt from "scrape-it";
@@ -17,7 +18,8 @@ app.use(express.json());
 
 app.get('/ping', (_req, res) => res.send('Pong'));
 app.use('/auth', authRouter); // declaramos el router de autenticación
-app.use('/users', validateAuth, usersRouter);
+app.use('/users', validateAuth, usersRouter); // declaramos el router de users
+app.use('/',router) // declaramos el router de products
 
 
 
