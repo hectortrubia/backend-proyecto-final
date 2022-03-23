@@ -25,7 +25,7 @@ export const retrieveProducts = async () => {
     try{
         await client.connect(); // paso 6
         const db = client.db(DATABASE_NAME); // paso 7
-        const beersCol = db.collection(COLLECTION_NAME); // paso 8
+        const productsCol = db.collection(COLLECTION_NAME); // paso 8
         const opt = {
             projection: { _id:0 }
         }

@@ -1,30 +1,33 @@
 [
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3067-home_default/chandal-indonesia.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal Indonesia",
         "color": "Rojo y azul",
         "talla": "S,M,L,XL",
         "precio": "59.40€"
     },
+
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3063-home_default/chandal-mozanbico-f35.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal Mozambico f35",
         "color": "azul y amarillo",
         "talla": "S,M,L,XL",
         "precio": "59.40€"
     },
+
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3059-home_default/chandal-calcuta-f35.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal Calcuta f35",
         "color": "verde y azul",
         "talla": "S,M,L,XL",
         "precio": "56.70€"
     },
+
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3058-home_default/chandal-libia-f35.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal Libia f35",
         "color": "azul",
@@ -32,7 +35,7 @@
         "precio": "57.60€"
     },
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3062-home_default/chandal-mosca-f35.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal Mosca f35",
         "color": "azul",
@@ -40,7 +43,7 @@
         "precio": "58.50€"
     },
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3060-home_default/chandal-sudan-uragano.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal sudan Uragano",
         "color": "azul claro",
@@ -48,7 +51,7 @@
         "precio": "58.50€"
     },
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3061-home_default/chandal-birmania-uragano.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal Birmania Uragano",
         "color": "morado",
@@ -56,7 +59,7 @@
         "precio": "59.40€"
     },
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3055-home_default/chandal-damasco-uragano.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal Damasco Uragano",
         "color": "verde y azul",
@@ -64,7 +67,7 @@
         "precio": "57.60€"
     },
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3051-home_default/chandal-caracas-uragano.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal Caracas Uragano",
         "color": "rojo y negro",
@@ -73,7 +76,7 @@
     },
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3465-home_default/chandal-tokyo.jpg",
         "tipo": "chandal",
         "descripcion": "Chandal Tokyo",
         "color": "rojo y negro",
@@ -89,16 +92,16 @@
 
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/2187-home_default/chaqueta-peru.jpg",
         "tipo": "chaqueta",
-        "descripcion": "Chaqueta Singapore",
-        "color": "amarillo",
+        "descripcion": "Chaqueta Peru",
+        "color": "naranja",
         "talla": "S,M,L,XL",
-        "precio": "29.00€"
+        "precio": "30.00€"
     },
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/1730-home_default/sudadera-algeria.jpg",
         "tipo": "chaqueta",
         "descripcion": "Chaqueta Algeria",
         "color": "amarillo",
@@ -109,7 +112,7 @@
 
     
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/1732-home_default/chaqueta-tunisia.jpg",
         "tipo": "chaqueta",
         "descripcion": "Chaqueta Tunisia",
         "color": "verde",
@@ -119,7 +122,7 @@
 
         
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/1678-home_default/sudadera-calcuta-f35.jpg",
         "tipo": "chaqueta",
         "descripcion": "Chaqueta Calcuta f35",
         "color": "verde",
@@ -128,7 +131,7 @@
     },
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/1605-home_default/chaqueta-mosca-f35.jpg",
         "tipo": "chaqueta",
         "descripcion": "Chaqueta Mosca f35",
         "color": "azul",
@@ -137,7 +140,7 @@
     },
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/4111-home_default/chaqueta-caracas-uragano.jpg",
         "tipo": "chaqueta",
         "descripcion": "Chaqueta Caracas Uragano",
         "color": "azul oscuro",
@@ -146,7 +149,7 @@
     },
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3074-home_default/chaqueta-cuba.jpg",
         "tipo": "chaqueta",
         "descripcion": "Chaqueta Cuba",
         "color": "azul",
@@ -156,7 +159,7 @@
 
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/4655-home_default/chaqueta-peru.jpg",
         "tipo": "chaqueta",
         "descripcion": "Chaqueta Peru",
         "color": "blanco",
@@ -172,7 +175,7 @@
 
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/2202-home_default/pantalon-osaka.jpg",
         "tipo": "pantalon",
         "descripcion": "Pantalón Osaka",
         "color": "azul marino",
@@ -182,7 +185,7 @@
 
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/492-home_default/pantalon-texas.jpg",
         "tipo": "pantalon",
         "descripcion": "Pantalón Texas",
         "color": "azul marino",
@@ -193,7 +196,7 @@
 
     
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/1807-home_default/pantalon-training-egitto.jpg",
         "tipo": "pantalon",
         "descripcion": "Pantalón trainning egitto",
         "color": "negro",
@@ -203,7 +206,7 @@
 
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/1603-home_default/pantalon-messico.jpg",
         "tipo": "pantalon",
         "descripcion": "Pantalón Messico",
         "color": "azul",
@@ -215,7 +218,7 @@
 
         
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/1655-home_default/pantalon-relax-tornado-bogota.jpg",
         "tipo": "pantalon",
         "descripcion": "Pantalón relax tornado Bogotá",
         "color": "azul marino",
@@ -225,12 +228,11 @@
 
 
     {
-        "imagen": "",
+        "imagen": "https://www.legeasport.es/3079-home_default/pantalon-cuba.jpg",
         "tipo": "pantalon",
         "descripcion": "Pantalón Cuba",
         "color": "negro",
         "talla": "S,M,L,XL",
         "precio": "22.00€"
     }
-
 ]
